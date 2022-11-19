@@ -1,17 +1,10 @@
-<style>
-  
-        /* text align for the body */
         body {
             text-align: center;
         }
-  
-        /* image dimension */
         img{
             height: 200px;
             width: 350px;
         }
-  
-        /* imagelistId styling */
         #imageListId
         { 
         margin: 0; 
@@ -24,16 +17,6 @@
             padding: 0.4em;             
             display: inline-block;
         }
-  
-        /* Output order styling */
-        #outputvalues{
-        margin: 0 2px 2px 2px;
-        padding: 0.4em; 
-        padding-left: 1.5em;
-        width: 250px;
-        border: 2px solid dark-green; 
-        background : gray;
-        }
         .listitemClass 
         {
             border: 1px solid #006400; 
@@ -42,4 +25,3 @@
         .height{ 
             height: 10px;
         }
-    </style>
